@@ -65,5 +65,16 @@ What is a transpiler?
 A transpiler changes code from one form to another without changing what it does.
 
 
+Apply different styles to your JSX elements?
+
+<!-- function App() {
+  return (
+    <h1 style={{ color: "blue", fontSize: "30px" }}>
+      Hello React!
+    </h1>
+  );
+} -->
+
+
 
 
